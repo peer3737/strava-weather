@@ -1,7 +1,6 @@
 import logging
 import os
 from datetime import datetime, timedelta
-from supporting.strava import Strava
 from database.db import Connection
 import uuid
 from supporting import aws
